@@ -2,6 +2,7 @@ h1 {
   color: blue;
 }
 
+/* Class atributes */
 .bluePar {
   color: rgb(65, 33, 179);
 }
@@ -9,3 +10,12 @@ h1 {
 .largeFontPar {
   font-size: 28px;
 }
+/* id attributes */
+
+#SecondPar {
+  font-size: 9px;
+}
+
+/* Komentaras del styles eiliskumo */
+/* inline > id > class */
+/* naudojam class, o ne id, nes naudojama JavaScripte */
