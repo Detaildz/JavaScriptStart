@@ -1,7 +1,3 @@
-h1 {
-  color: blue;
-}
-
 /* Class atributes */
 .bluePar {
   color: rgb(65, 33, 179);
@@ -19,3 +15,9 @@ h1 {
 /* Komentaras del styles eiliskumo */
 /* inline > id > class */
 /* naudojam class, o ne id, nes naudojama JavaScripte */
+
+.hrLine {
+  height: 2px;
+  border: none;
+  border-top: 2px solid black;
+}
